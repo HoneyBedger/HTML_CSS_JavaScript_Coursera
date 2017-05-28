@@ -18,12 +18,14 @@ h1 {
 
 .title {
 	position: absolute;
-	right: 0px;
+	right: -1px;
+	top: -1px;
 	border: solid black 1px;
 	width: 100px;
-	height: 30px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 	text-align: center;
-	vertical-align: middle;
+	vertical-align: center;
 	font-size: 125%;
 	color: white;
 }
@@ -34,15 +36,15 @@ h1 {
 }
 
 #title1 {
-	background: #400d56;
+	background: #866096;
 }
 
 #title2 {
-	background: #560d3a;
+	background: #96608f;
 }
 
 #title3 {
-	background: #560d0d;
+	background: #966068;
 }
 
 /* Responsive Framework */
